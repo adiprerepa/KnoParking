@@ -10,6 +10,6 @@ Have you ever been to a parking lot, but you had to scurry around the entire lot
 
 
 # Authors
-* Ishan Jain
-* Akshay Trivedi
 * Aditya Prerepa
+* Akshay Trivedi
+* Ishan Jain
